@@ -18,5 +18,10 @@
         freshwater lake.</string>
     <string name="next_button">Next</string>
     <string name="prev_button">Prev</string>
+    <string name="warning_text">Warning </string>
+    <string name="answer_text_view">answer text</string>
+    <string name="show_answer_button">show answer</string>
+    <string name="cheat_button">cheat</string>
+    <string name="judgmet_toast">judgmet_toast</string>
 
 </resources>
